@@ -16,6 +16,10 @@ body {
     margin-left: 15px;
 }
 
+#wrapper #color {
+    background: inherit;
+}
+
 #wrapper h1 {
     text-align: center;
 }
