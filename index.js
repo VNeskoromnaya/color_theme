@@ -4,7 +4,7 @@ let wrapper = document.getElementById('wrapper');
 let color = document.getElementById('color');
 
 
-function changeBackground() {
+function changeBackground() {    
     if(color.value == "white") {
         wrapper.style.background = 'white';
     }
